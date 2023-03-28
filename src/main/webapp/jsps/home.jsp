@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Tesla WebApp Project.</h1>
-<h2 align="center"> We are developing and supporting quality software solutions to our clients
+<h1 align="center">Welcome to Landmark Tesla WebApp Project automation.</h1>
+<h2 align="center"> We are developing and supporting quality software solutions to our clients.
 	            We are raising millionaires in IT automation.
 	            Landmark Technology is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
 	            We offer interview preparations and job assitance.
